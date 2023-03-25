@@ -5,7 +5,7 @@
 
 body {
   @apply bg-zinc-900 h-full overflow-x-hidden;
-  font-family: 'Kanit', sans-serif;
+  font-family: 'Netflix Font', sans-serif;
 }
 
 #__next {
